@@ -5,3 +5,5 @@ https://www.kaggle.com/c/dota-2-win-probability-prediction
 We use 3 classifier (SVM, Decision Tree and Random Forest) and a neural network to predict.
 
 The best performance was random tree with 66%+ accuracy in test data.
+
+233
